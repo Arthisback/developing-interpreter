@@ -1,0 +1,10 @@
+# GHC build artifacts
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+main
+dist-newstyle/
+
+# Assignment statement
+*.pdf
